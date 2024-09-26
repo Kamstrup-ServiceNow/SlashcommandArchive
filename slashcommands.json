@@ -127,6 +127,15 @@
         "order": 0,
         "overwriteurl": ""
     },
+"prod": {
+        "url": "//env kamstrup",
+        "hint": "Example: Open in Prod",
+        "fields": "",
+        "description": "Example slashcommand to open the the current record in the Prod environment. Double // invokes another command. Replace Prod with your instance prefix. (test.service-now.com)",
+        "order": 0,
+        "overwriteurl": ""
+    },
+	
     "test": {
         "url": "//env kamstruptest",
         "hint": "Example: Open in Test",
