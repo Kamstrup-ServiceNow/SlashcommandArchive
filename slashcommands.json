@@ -15,6 +15,14 @@
         "order": 0,
         "overwriteurl": ""
     },
+    "esp": {
+        "url": "/esp",
+        "hint": "Employee Center",
+        "fields": "",
+        "description": "Open Employee Service Portal",
+        "order": 0,
+        "overwriteurl": ""
+    },
     "stats": {
         "url": "/stats.do",
         "hint": "Stats.do",
