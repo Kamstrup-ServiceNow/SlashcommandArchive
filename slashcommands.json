@@ -15,6 +15,14 @@
         "order": 0,
         "overwriteurl": ""
     },
+"email": {
+        "url": "/now/nav/ui/classic/params/target/sys_email_list.do%3Fsysparm_userpref_module%3D8d620b63c611227b008368697b0b8d7b%26sysparm_query%3Dsys_created_onONToday%2540javascript%253Ags.daysAgoStart%25280%2529%2540javascript%253Ags.daysAgoEnd%25280%2529%255EEQ",
+        "hint": "Widgets <search>",
+        "fields": "",
+        "description": "Open emails list",
+        "order": 0,
+        "overwriteurl": ""
+    },	
     "esp": {
         "url": "/esp",
         "hint": "Employee Center",
