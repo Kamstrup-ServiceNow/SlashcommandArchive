@@ -22,7 +22,15 @@
         "description": "Open emails list",
         "order": 0,
         "overwriteurl": ""
-    },	
+    },
+"commit": {
+        "url": "/now/nav/ui/classic/params/target/sys_update_set_source.do%3Fsysparm_stack%3Dsys_update_set_source_list.do%26sysparm_query%3Dactive%253Dtrue%255EEQ",
+        "hint": "Widgets <search>",
+        "fields": "",
+        "description": "Open lists up uncomitted updatesets",
+        "order": 0,
+        "overwriteurl": ""
+    },		
     "esp": {
         "url": "/esp",
         "hint": "Employee Center",
